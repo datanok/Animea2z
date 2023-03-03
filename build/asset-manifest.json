@@ -1,0 +1,18 @@
+{
+  "main.css": "/animeapp/static/css/main.f4ab77f5.chunk.css",
+  "main.js": "/animeapp/static/js/main.978420ce.chunk.js",
+  "main.js.map": "/animeapp/static/js/main.978420ce.chunk.js.map",
+  "static/js/1.afc9b727.chunk.js": "/animeapp/static/js/1.afc9b727.chunk.js",
+  "static/js/1.afc9b727.chunk.js.map": "/animeapp/static/js/1.afc9b727.chunk.js.map",
+  "static/css/2.d8c66875.chunk.css": "/animeapp/static/css/2.d8c66875.chunk.css",
+  "static/js/2.a8d86329.chunk.js": "/animeapp/static/js/2.a8d86329.chunk.js",
+  "static/js/2.a8d86329.chunk.js.map": "/animeapp/static/js/2.a8d86329.chunk.js.map",
+  "runtime~main.js": "/animeapp/static/js/runtime~main.1fd01c79.js",
+  "runtime~main.js.map": "/animeapp/static/js/runtime~main.1fd01c79.js.map",
+  "static/media/all.min.css": "/animeapp/static/media/fa-solid-900.37bc7099.svg",
+  "static/css/main.f4ab77f5.chunk.css.map": "/animeapp/static/css/main.f4ab77f5.chunk.css.map",
+  "static/css/2.d8c66875.chunk.css.map": "/animeapp/static/css/2.d8c66875.chunk.css.map",
+  "index.html": "/animeapp/index.html",
+  "precache-manifest.1e1f65c242d5b8bc9d74d549c2c338ed.js": "/animeapp/precache-manifest.1e1f65c242d5b8bc9d74d549c2c338ed.js",
+  "service-worker.js": "/animeapp/service-worker.js"
+}
